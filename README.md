@@ -1,0 +1,1 @@
+# QuantStockPicker_clean
