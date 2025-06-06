@@ -20,7 +20,6 @@ git config --global user.name "您的名字"
 git config --global user.email "您的電子郵件"
 ```
 ---
-# 每週開會前執行一次"自動提交.bat"留下git的紀錄
 
 # 執行步驟
 ## 階段一 先可以執行
